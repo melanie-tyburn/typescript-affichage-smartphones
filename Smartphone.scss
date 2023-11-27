@@ -1,0 +1,19 @@
+.phone {
+  padding: 5px;
+  margin-bottom: 10px;
+  background-color: white;
+  border-radius: 10px; /* Ajoutez une bordure arrondie pour un look plus esthétique */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    .brand {
+        color:blue;
+    }
+    .desc {
+        color:purple;
+    }
+    .ok-recon {
+        color: green;       
+    }
+    .not-ok-recon {
+        color: red;
+    }
+}
